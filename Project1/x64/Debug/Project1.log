@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\pco45\Desktop\2-1\데이터구조\Project1\Project1\소스.c(193,10): warning C4101: 'command' :참조되지 않은 지역 변수입니다.
+C:\Users\pco45\Desktop\2-1\데이터구조\Project1\Project1\소스.c(192,9): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\pco45\Desktop\2-1\데이터구조\Project1\x64\Debug\Project1.exe
